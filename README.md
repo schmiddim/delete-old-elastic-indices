@@ -1,5 +1,4 @@
-# Delete old indices from Elasticsearch#
-
+# Delete old indices from Elasticsearch
 
 ### Setup ###
 *activate virtual env*
