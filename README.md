@@ -7,6 +7,10 @@ virtualenv  venv
 virtualenv   -p python3 venv    #if python2 is the default interpreter
 ````
 
+**goto venv**
+````bash
+source venv/bin/activate
+````
 *resolve Dependencies*
 ````bash
 pip3 install -r requirements.txt #dependencies
